@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ganginenis
-- 👀 I’m interested in Salesforce
-- 🌱 I’m currently learning Salesforce Development
-- 💞️ I’m looking to collaborate on salesforce projects for hands on experience
+- 🌱 I’m currently working as a team lead in Movate Tech
+- 💞️ I’m looking to collaborate on React Js projects for more hands on experience
 - 📫 How to reach me sandeepgangineni6@gmail.com
 
 <!---
