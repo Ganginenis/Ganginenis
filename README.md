@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ganginenis
 - 🌱 I’m currently working as a team lead in Movate Tech
-- 💞️ I’m looking to collaborate on React Js projects for more hands on experience
 - 📫 How to reach me sandeepgangineni6@gmail.com
 
 <!---
